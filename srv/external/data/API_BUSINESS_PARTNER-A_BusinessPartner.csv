@@ -1,0 +1,4 @@
+BusinessPartner;BusinessPartnerFullName;BusinessPartnerIsBlocked;Customer;
+1000038;Williams Electric Drives;false;"CustomerW"
+1000040;Smith Batteries Ltd;false;"CustomerS"
+1000042;Johnson Automotive Supplies;true;"CustomerJ"
